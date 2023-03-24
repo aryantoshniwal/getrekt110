@@ -1,10 +1,6 @@
 # </a>Website for GetRekt110 Team
 
 
-<div align="center">
-    <img src="static/images/demo.png" alt="Logo" width="400" height="300">
-</div>
-
 ## About This Portfolio/Project Details
 
 
