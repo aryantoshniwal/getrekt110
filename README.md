@@ -1,9 +1,5 @@
 # </a>Website for GetRekt110 Team
 
-<a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Website02_CoffeeShop.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Website02_CoffeeShop?style=flat)
-\
 
 <div align="center">
     <img src="static/images/demo.png" alt="Logo" width="400" height="300">
