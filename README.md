@@ -4,7 +4,7 @@
 ![ViewCount](https://views.whatilearened.today/views/github/BDFDPortfolio/Website02_CoffeeShop.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/BDFDPortfolio/Website02_CoffeeShop?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFDPortfolio/Website02_CoffeeShop?style=flat)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+
 
 <div align="center">
     <img src="static/images/demo.png" alt="Logo" width="400" height="300">
